@@ -44,3 +44,5 @@
 * ["Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection](https://arxiv.org/pdf/1705.00648.pdf)
 * [LIAR dataset](https://github.com/thiagorainmaker77/liar_dataset)
 * [LIAR-PLUS dataset](https://github.com/Tariq60/LIAR-PLUS)
+* [Where is your Evidence: Improving Fact-checking by Justification
+Modeling](https://www.aclweb.org/anthology/W18-5513.pdf)
