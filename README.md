@@ -36,8 +36,8 @@
 * **13**: Сумма (**pants_on_fire_counts**) 'pants on fire' новостей спикера;
 * **Column 14**: (**context**) Контекст новости. Место, где появилась данная новость (Интервью, пресс-релиз, Твиттер и тд);
 
+**LIAR-PLUS**
 * Датасет [LIAR-PLUS](https://github.com/Tariq60/LIAR-PLUS) является расширением датасета [LIAR](https://github.com/thiagorainmaker77/liar_dataset). Добавился новый признак **justification**
-
 * **Column 15**: (**justification**) Обоснование новости, которое написали эксперты в процессе факт-чекинга;
 
 **Источники**
