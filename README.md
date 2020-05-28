@@ -16,8 +16,8 @@
 * **true** - Правдивая новость
 
 **6 таргетов можно представить в виде бинарной классификации**
-* **true_news** = 1, если новость не фейк (half-true или mostly-true или true == 1)
-* **true_news** = 0, если новость фейк (pants-fire или false или barely-true == 1)
+* **is_fake** = 0, если новость не фейк (half-true или mostly-true или true == 1)
+* **is_fake** = 1, если новость фейк (pants-fire или false или barely-true == 1)
 
 **Признаки датасета LIAR**
 * **Column 1**: (**id_json**) ID заголовка ([ID].json);
